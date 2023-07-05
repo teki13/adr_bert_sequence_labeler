@@ -32,4 +32,15 @@ The code folder consists of 6 different python scripts, namely:
 ## Data
 
 This folder contains some of the data relevant for the project. It includes the ADR lexicon needed for the baseline information retrieval models, as well as the combined and clead dataset which is used for the analysis. It does not include the 4 original raw datasets which were used to create the combined and cleaned one. 
-  
+
+## Requirements
+
+- Python
+- Pytorch
+
+## Collaborators
+
+- Teona Ristova
+- Marta Emili Garcia Segura
+- Karina Gabor
+- Giomaria Murgia
